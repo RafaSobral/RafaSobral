@@ -3,6 +3,7 @@
 - 🔭 Desenvolvendo um projeto de controle de estoque integrado com Postgree.
 - 🌱 Estudando SQL, JavaScript e Python.
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=yeblu) 
 
 
 <div style="display: inline_block"><br>
@@ -14,9 +15,9 @@
   <img align="center" alt="Rafa-PostGreeSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=yeblu)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=yeblu)
+
 
 
 
