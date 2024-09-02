@@ -1,5 +1,5 @@
 ## Eai!! Seja Bem Vindo!!!
-- 🔭 Desenvolvendo um projeto de controle de estoque integrado com Postgree.
+- 🔭 Desenvolvendo um projeto de controle de estoque integrado com Postgres.
 - 🌱 Estudando SQL, JavaScript e Python.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=yeblu)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=yeblu)
