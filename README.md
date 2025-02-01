@@ -1,7 +1,5 @@
 ![Capa](https://github.com/RafaSobral/RafaSobral/blob/main/banner.png)
 
-## Eai!! Seja Bem Vindo!!!
-- 🌱 Estudando SQL e Python.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=yeblu)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=yeblu)
 
