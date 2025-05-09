@@ -1,5 +1,7 @@
 ![Capa](https://github.com/RafaSobral/RafaSobral/blob/main/banner.png)
- 
+
+ ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,FFF,D6DAFF&border_color=FFF&text_color=000&theme=jolly)
+
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=algolia)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=algolia)
  
