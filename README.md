@@ -1,7 +1,7 @@
 ![Capa](https://github.com/RafaSobral/RafaSobral/blob/main/bannerbia.png)
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaSobral&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaSobral&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaSobral&theme=gotham&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaSobral&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
