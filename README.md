@@ -1,4 +1,4 @@
-![Capa](https://github.com/RafaSobral/RafaSobral/blob/main/banner.png)
+![Capa](https://github.com/RafaSobral/RafaSobral/blob/main/bannerbia.png)
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=algolia)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=algolia)
  
