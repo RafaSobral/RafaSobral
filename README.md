@@ -1,6 +1,6 @@
 ![Capa](https://github.com/RafaSobral/RafaSobral/blob/main/bannerbia.png)
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=neon)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=neon)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaSobral&show_icons=true&theme=prussian)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSobral&layout=compact&theme=prussian)
  
   
  <div style="display: inline_block"><br>
